@@ -1,4 +1,5 @@
-## Olá, eu sou o Renato, seja bem-vindo ao meu perfil 👋
+# Olá, eu sou o Renato
+## Seja bem-vindo ao meu perfil 👋
 
 - Sou estudante de Engenharia de Computação, técnico em informática pelo IFSULDEMINAS e aluno do Bootcamp GoStack da @rocketseat.
 - Moro em Poços de Caldas - MG e pretendo me mudar para São Paulo - SP quando me formar. Apesar do meu curso ser integral estou buscando um posição no mercado como desenvolvedor de software.
