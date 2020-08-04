@@ -12,7 +12,7 @@
 
 You can contact me through the main social networks:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-RenatoSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-silveira-966070118/)](https://www.linkedin.com/in/renato-silveira-966070118/) 
+- [![Linkedin Badge](https://img.shields.io/badge/-Renato Silveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-silveira-966070118/)](https://www.linkedin.com/in/renato-silveira-966070118/) 
 - https://www.instagram.com/renato.s3z/
 - https://www.facebook.com/renato.silveira.100
 - [![Gmail Badge](https://img.shields.io/badge/-renatosilveira90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatosilveira99@gmail.com)](mailto:renatosilveira90@gmail.com)
