@@ -5,7 +5,7 @@
 
 ### Sempre buscando conhecimento
 
-- Apesar de já ter trabalho como desenvolvedor freelancer e atuado como estágiario em uma empresa de software, atualmente estou focado nos estudos com o objetivo de me tornar Fullstack com as técnologias <b>NodeJS, ReactJS e React Native</b>
+- Apesar de já ter trabalhado como desenvolvedor freelancer e atuado como estágiario em empresa de software, atualmente estou focado nos estudos com o objetivo de me tornar Fullstack com as técnologias <b>NodeJS, ReactJS e React Native</b>
  
 ### Quer conversar?
 
