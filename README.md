@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-Sou estudante de Engenharia de Computação, técnico em informática pelo IFSULDEMINAS e aluno do Bootcamp GoStack da @rocketseat.
+###Sou estudante de Engenharia de Computação, técnico em informática pelo IFSULDEMINAS e aluno do Bootcamp GoStack da @rocketseat.
 Moro em Poços de Caldas - MG e pretendo me mudar para São Paulo quando me formar. Apesar do meu curso ser integral estou buscando um posição no mercado como desenvolvedor de software.
 
-Apesar de já ter trabalho como desenvolvedor freelancer e atuado como estágiario em uma empresa de software, atualmente estou focado nos estudos com o objetivo de me tornar Fullstack com as técnologias <h1>NodeJS, ReactJS e React Native<h1/>
+###Apesar de já ter trabalho como desenvolvedor freelancer e atuado como estágiario em uma empresa de software, atualmente estou focado nos estudos com o objetivo de me tornar Fullstack com as técnologias <h1>NodeJS, ReactJS e React Native<h1/>
  
 
 - 🔭 I’m currently working on ... 
