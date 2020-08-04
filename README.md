@@ -4,11 +4,11 @@
 - I am a student of Computer Engineering, computer technician at IFSULDEMINAS and student of Bootcamp GoStack from @rocketseat.
 - I currently live in Poços de Caldas - MG and intend to move to São Paulo - SP when I graduate. Although my course is in the morning and in the afternoon I am looking for a position in the employment market as a software developer.
 
-### Always seeking knowledge
+### Always seeking knowledge :smile:
 
 - Although I have already worked as a freelance developer and worked as an intern in a software company, I am currently focused on studies with the goal of becoming Fullstack with the technologies <b> NodeJS, ReactJS and React Native </b>
  
-### Want to talk?
+### Want to talk? :raising_hand_man:
 
 You can contact me through the main social networks:
 
@@ -17,6 +17,6 @@ You can contact me through the main social networks:
 - https://www.facebook.com/renato.silveira.100
 Subjects such as games, series, gym, sports, travel, programming, life, universe and everything are always welcome!
 
-### Motivation
+### Motivation :muscle:
 
 I know how hard it is to wake up thinking about giving up and never trying again, but don't do that, look up, raise your head and stop suffering, go for me it is not worth giving up !
