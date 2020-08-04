@@ -1,24 +1,22 @@
-# Olá, eu sou o Renato
-## Seja bem-vindo ao meu perfil 👋
+# Hi, I'am Renato
+## Welcome to my github profile 👋
 
-- Sou estudante de Engenharia de Computação, técnico em informática pelo IFSULDEMINAS e aluno do Bootcamp GoStack da @rocketseat.
-- Moro em Poços de Caldas - MG e pretendo me mudar para São Paulo - SP quando me formar. Apesar do meu curso ser integral estou buscando um posição no mercado como desenvolvedor de software.
+- I am a student of Computer Engineering, computer technician at IFSULDEMINAS and student of Bootcamp GoStack from @rocketseat.
+- I currently live in Poços de Caldas - MG and intend to move to São Paulo - SP when I graduate. Although my course is in the morning and in the afternoon I am looking for a position in the employment market as a software developer.
 
-### Sempre buscando conhecimento
+### Always seeking knowledge
 
-- Apesar de já ter trabalhado como desenvolvedor freelancer e atuado como estágiario em empresa de software, atualmente estou focado nos estudos com o objetivo de me tornar Fullstack com as técnologias <b>NodeJS, ReactJS e React Native</b>
+- Although I have already worked as a freelance developer and worked as an intern in a software company, I am currently focused on studies with the goal of becoming Fullstack with the technologies <b> NodeJS, ReactJS and React Native </b>
  
-### Quer conversar?
+### Want to talk?
 
-Pode me contactar através das principais redes sociais:
+You can contact me through the main social networks:
 
 - https://www.linkedin.com/in/renato-silveira-966070118/
 - https://www.instagram.com/renato.s3z/
 - https://www.facebook.com/renato.silveira.100
+Subjects such as games, series, gym, sports, travel, programming, life, universe and everything are always welcome!
 
-Assuntos como jogos, séries, academia, esportes, viagens, programação, vida, universo e tudo mais são sempre bem-vindas!
+### Motivation
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know how hard it is to wake up thinking about giving up and never trying again, but don't do that, look up, raise your head and stop suffering, go for me it is not worth giving up !
