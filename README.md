@@ -12,14 +12,15 @@
 
 You can contact me through the main social networks:
 
-- https://www.linkedin.com/in/renato-silveira-966070118/
+- [![Linkedin Badge](https://img.shields.io/badge/-RenatoSilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-silveira-966070118/)](https://www.linkedin.com/in/renato-silveira-966070118/) 
 - https://www.instagram.com/renato.s3z/
 - https://www.facebook.com/renato.silveira.100
-- [![Gmail Badge](https://img.shields.io/badge/-trenatosilveira90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trenatosilveira99@gmail.com)](mailto:trenatosilveira90@gmail.com)
+- [![Gmail Badge](https://img.shields.io/badge/-renatosilveira90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatosilveira99@gmail.com)](mailto:renatosilveira90@gmail.com)
 
 Subjects such as games, series, gym, sports, travel, programming, life, universe and everything are always welcome!
 
 ### Motivation :muscle:
 
 I know how hard it is to wake up thinking about giving up and never trying again, but don't do that, look up, raise your head and stop suffering, go for me it is not worth giving up !
+
 
