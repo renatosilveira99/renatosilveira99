@@ -20,6 +20,6 @@ Subjects such as games, series, gym, sports, travel, programming, life, universe
 
 ### Motivation :muscle: :star:
 
-I know how hard it is to wake up thinking about giving up and never trying again, but don't do that, look up, raise your head and stop suffering, go for me it is not worth giving up !
+I know how hard it is to wake up thinking about giving up and never trying again, but don't do that, look up, raise your head and stop suffering, listen to me, you can do it!
 
 
