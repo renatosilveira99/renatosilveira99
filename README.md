@@ -2,7 +2,7 @@
 ## Welcome to my github profile 👋
 
 - I am a student of Computer Engineering, computer technician at IFSULDEMINAS and student of Bootcamp GoStack from @rocketseat.
-- I currently live in Poços de Caldas - MG and intend to move to São Paulo - SP when I graduate. Although my course is in the morning and in the afternoon I am looking for a position in the employment market as a software developer.
+- I currently live in Poços de Caldas - MG and intend to move to São Paulo - SP when I graduate.
 
 ### Always seeking knowledge :smile:
 
