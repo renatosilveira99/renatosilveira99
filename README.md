@@ -1,12 +1,11 @@
 # Hi, I'am Renato
 ## Welcome to my github profile 👋
 
-- I am a student of Computer Engineering, computer technician at IFSULDEMINAS and student of Bootcamp GoStack from @rocketseat.
-- I currently live in Poços de Caldas - MG and intend to move to São Paulo - SP when I graduate.
+I'm a highly qualified software engineer with more than 3 years of experience in full-stack and back-end software development. I worked with cutting-edge technologies such as NodeJS, ReactJS, TypeScript, PostgreSQL, GraphQL, MongoDB, and others. 
 
 ### Always seeking knowledge :smile:
 
-- Although I have already worked as a freelance developer and worked as an intern in a software company, I am currently focused on studies with the goal of becoming Fullstack with the technologies <b> NodeJS, ReactJS and React Native </b>
+- Currently, I work as a software engineer at Kea, where I create optimized software projects using clean code architectures, microservices implementation, server and database development and support, application of security techniques in web applications, database integration to web platforms, and building customer service bots.
  
 ### Want to talk? :raising_hand_man:
 
