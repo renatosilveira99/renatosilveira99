@@ -6,7 +6,7 @@ I'm a highly qualified software engineer with more than 3 years of experience in
 In addition, I also hold several certifications in technology and project management, which demonstrate my commitment to continuous learning and my interest in staying current with the latest trends and technologies in my field. These certifications reflect my ability to quickly learn new skills and apply them to real-world projects, as well as my ability to manage projects efficiently and effectively.
 ### Always seeking knowledge :smile:
 
-- Currently, I work as a software engineer at Kea, where I create optimized software projects using clean code architectures, microservices implementation, server and database development and support, application of security techniques in web applications, database integration to web platforms, and building customer service bots.
+- Currently, I'm going after leaning more about Python + AI
  
 ### Want to talk? :raising_hand_man:
 
