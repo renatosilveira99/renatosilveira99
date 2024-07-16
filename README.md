@@ -7,19 +7,19 @@ Previously, as a back-end engineer at Holonic, I had the opportunity to work wit
 
 My journey is complemented by various certifications in technology and project management, reflecting my dedication to growth and excellence. I am always eager to take on new challenges and collaborate on exciting projects that push the boundaries of innovation.
 
-Key Skills: \n
-Languages: JavaScript, TypeScript, Python \n
-Front-end: React.js, Redux.js, HTML5, CSS3, Bootstrap, SASS, Responsive Web Design \n
-Back-end: Node.js, GraphQL, RESTful APIs \n
-Databases: PostgreSQL, MongoDB, MySQL, SQL \n
-DevOps: Docker, AWS, Git, Agile Methods, CI/CD \n
-Architecture: Scalable Systems, Microservices, Clean Code \n
-Other Tools: Figma, Project Management \n
+Key Skills:
+- Languages: JavaScript, TypeScript, Python
+- Front-end: React.js, Redux.js, HTML5, CSS3, Bootstrap, SASS, Responsive Web Design
+- Back-end: Node.js, GraphQL, RESTful APIs
+- Databases: PostgreSQL, MongoDB, MySQL, SQL
+- DevOps: Docker, AWS, Git, Agile Methods, CI/CD
+- Architecture: Scalable Systems, Microservices, Clean Code
+- Other Tools: Figma, Project Management
 
 I would love to connect and explore opportunities to work together on exciting projects. Feel free to reach out via LinkedIn messages.
 ### Always seeking knowledge :smile:
 
-- Currently, I'm going after leaning more about Python + AI
+- Currently, I'm going after learning more about Python + AI
  
 ### Want to talk? :raising_hand_man:
 
