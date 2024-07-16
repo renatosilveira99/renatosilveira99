@@ -1,9 +1,22 @@
 # Hi, I'am Renato
 ## Welcome to my github profile 👋
 
-I'm a highly qualified software engineer with more than 3 years of experience in full-stack and back-end software development. I worked with cutting-edge technologies such as NodeJS, ReactJS, TypeScript, PostgreSQL, GraphQL, MongoDB, and others. Currently, I work as a software engineer at Kea, where I create optimized software projects using clean code architectures, microservices implementation, server and database development and support, application of security techniques in web applications, database integration to web platforms, and building customer service bots. Previously, I worked as a back-end engineer at Holonic, where I created software projects utilizing similar technologies and participated in high-performance "POD" teams that positively impacted sustainability and systems within Silicon Valley startups. I am a dedicated and passionate person about technology, always looking to learn and update myself on new technologies and software development trends.
+I am a passionate software engineer with over 4 years of experience in full-stack and back-end development. I thrive on working with cutting-edge technologies like Node.js, React.js, TypeScript, PostgreSQL, GraphQL, and MongoDB. At Kea, I am excited to create innovative software projects using clean code principles, build scalable microservices, support robust server and database solutions, and develop engaging customer service bots.
 
-In addition, I also hold several certifications in technology and project management, which demonstrate my commitment to continuous learning and my interest in staying current with the latest trends and technologies in my field. These certifications reflect my ability to quickly learn new skills and apply them to real-world projects, as well as my ability to manage projects efficiently and effectively.
+Previously, as a back-end engineer at Holonic, I had the opportunity to work with talented teams to enhance systems in Silicon Valley startups, making a meaningful impact on their sustainability and efficiency. I am genuinely enthusiastic about technology and continuously seek to learn and embrace new advancements.
+
+My journey is complemented by various certifications in technology and project management, reflecting my dedication to growth and excellence. I am always eager to take on new challenges and collaborate on exciting projects that push the boundaries of innovation.
+
+Key Skills:
+Languages: JavaScript, TypeScript, Python
+Front-end: React.js, Redux.js, HTML5, CSS3, Bootstrap, SASS, Responsive Web Design
+Back-end: Node.js, GraphQL, RESTful APIs
+Databases: PostgreSQL, MongoDB, MySQL, SQL
+DevOps: Docker, AWS, Git, Agile Methods, CI/CD
+Architecture: Scalable Systems, Microservices, Clean Code
+Other Tools: Figma, Project Management
+
+I would love to connect and explore opportunities to work together on exciting projects. Feel free to reach out via LinkedIn messages.
 ### Always seeking knowledge :smile:
 
 - Currently, I'm going after leaning more about Python + AI
