@@ -1,4 +1,4 @@
-# Hi, I'am Renato
+# Hi, I'm Renato
 ## Welcome to my github profile 👋
 
 I am a passionate software engineer with over 4 years of experience in full-stack and back-end development. I thrive on working with cutting-edge technologies like Node.js, React.js, TypeScript, PostgreSQL, GraphQL, and MongoDB. At Kea, I am excited to create innovative software projects using clean code principles, build scalable microservices, support robust server and database solutions, and develop engaging customer service bots.
