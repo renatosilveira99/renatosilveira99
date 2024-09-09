@@ -9,9 +9,9 @@ My journey is complemented by various certifications in technology and project m
 
 Key Skills:
 - Languages: JavaScript, TypeScript, Python
-- Front-end: React.js, Redux.js, HTML5, CSS3, Bootstrap, SASS, Responsive Web Design
-- Back-end: Node.js, GraphQL, RESTful APIs
-- Databases: PostgreSQL, MongoDB, MySQL, SQL
+- Front-end: React.js, Redux.js, Next.js
+- Back-end: Node.js, GraphQL, Nest.js
+- Databases: PostgreSQL, MongoDB, MySQL, Redis
 - DevOps: Docker, AWS, Git, Agile Methods, CI/CD
 - Architecture: Scalable Systems, Microservices, Clean Code
 - Other Tools: Figma, Project Management
