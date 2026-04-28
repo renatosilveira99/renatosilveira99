@@ -1,38 +1,101 @@
-# Hi, I'm Renato
-## Welcome to my github profile 👋
+# Hi, I'm Renato 👋
 
-I am a passionate software engineer with over 5 years of experience in full-stack and back-end development. I thrive on working with cutting-edge technologies like Node.js, React.js, TypeScript, PostgreSQL, GraphQL, and MongoDB. At Kea, I am excited to create innovative software projects using clean code principles, build scalable microservices, support robust server and database solutions, and develop engaging customer service bots.
+## Senior Backend Engineer | Distributed Systems | AI-driven Products
 
-Previously, as a back-end engineer at Holonic, I had the opportunity to work with talented teams to enhance systems in Silicon Valley startups, making a meaningful impact on their sustainability and efficiency. I am genuinely enthusiastic about technology and continuously seek to learn and embrace new advancements.
+I build scalable backend systems that impact real business metrics.
 
-My journey is complemented by various certifications in technology and project management, reflecting my dedication to growth and excellence. I am always eager to take on new challenges and collaborate on exciting projects that push the boundaries of innovation.
+Over the past 5+ years, I’ve worked with US-based startups designing and scaling:
+- real-time platforms
+- event-driven architectures
+- AI-powered workflows
 
-Key Skills:
-- Languages: JavaScript, TypeScript, Python
-- Front-end: React.js, Redux.js, Next.js
-- Back-end: Node.js, GraphQL, Nest.js
-- Databases: PostgreSQL, MongoDB, MySQL, Redis
-- DevOps: Docker, AWS, Git, Agile Methods, CI/CD
-- Architecture: Scalable Systems, Microservices, Clean Code
-- Other Tools: Figma, Project Management
+Recently, I:
+- Led the development of a dynamic pricing platform impacting company GMV
+- Built an LLM-based automation pipeline reducing manual operations by 70%
+- Designed high-throughput event-driven systems using Kafka and microservices
 
-I would love to connect and explore opportunities to work together on exciting projects. Feel free to reach out via LinkedIn messages.
-### Always seeking knowledge :smile:
+I focus on backend engineering, but I’m product-minded and comfortable working across the stack when needed.
 
-- Currently, I'm going after learning more about Python + AI
- 
-### Want to talk? :raising_hand_man:
+---
 
-You can contact me through the main social networks:
+## 🌐 Portfolio
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Renato_Silveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-silveira-966070118/)](https://www.linkedin.com/in/renato-silveira-966070118/) 
-- [![Facebook Badge](https://img.shields.io/badge/-Renato_Silveira-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/renato.silveira.100)](https://www.facebook.com/renato.silveira.100) 
-- [![Gmail Badge](https://img.shields.io/badge/-renatosilveira90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renatosilveira99@gmail.com)](mailto:renatosilveira90@gmail.com)
+👉 https://renatosilveira99.github.io/
 
-Subjects such as games, series, gym, sports, travel, programming, life, universe and everything are always welcome!
+A curated selection of projects and systems I’ve built, including backend architectures, real-time applications, and AI-driven solutions.
 
-### Motivation :muscle: :star:
+---
 
-I know how hard it is to wake up thinking about giving up and never trying again, but don't do that, look up, raise your head and stop suffering, listen to me, you can do it!
+## ⚙️ Tech Stack
 
+**Backend & Systems**
+- Node.js, TypeScript, Python
+- Distributed Systems, Microservices, Event-Driven Architecture
+- Kafka, WebSockets
 
+**Infrastructure**
+- AWS, Docker, Kubernetes
+- CI/CD, Observability (Grafana)
+
+**Databases**
+- PostgreSQL, Redis, MongoDB
+
+**APIs & Integrations**
+- REST, GraphQL, Third-party integrations (Twilio, Payments, etc.)
+
+**Frontend (when needed)**
+- React.js, Next.js
+
+**Mobile**
+- React Native
+
+---
+
+## 🚀 What I Care About
+
+- Building systems that scale (technically and business-wise)
+- Writing clean, maintainable code
+- Shipping fast without sacrificing quality
+- Leveraging AI to increase engineering productivity
+
+---
+
+## 📈 Experience Highlights
+
+- Scaled systems handling **1M+ interactions**
+- Reduced operational workload by **70% using AI automation**
+- Improved transaction systems with **50% performance gains**
+- Built real-time systems increasing business volume by **60%**
+
+---
+
+## 🌍 Currently
+
+- Open to **remote international opportunities**
+- Deepening knowledge in **AI + backend systems integration**
+
+---
+
+## 📫 Let’s Connect
+
+- Portfolio: https://renatosilveira99.github.io/
+- LinkedIn: https://www.linkedin.com/in/renato-silveira-966070118/
+- GitHub: https://github.com/renatosilveira99
+- Email: renatosilveira90@gmail.com
+
+---
+
+## ⚡ Fun
+
+I enjoy talking about:
+- Tech & startups
+- AI & the future of software
+- Games, gym, travel, and life in general
+
+---
+
+## 🧠 Mindset
+
+Consistency beats motivation.
+
+Keep building.
